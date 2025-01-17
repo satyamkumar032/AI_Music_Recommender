@@ -20,7 +20,6 @@ In this project, we would be combining multiple services and open-source tools t
 
 ### Built With
   
-* User Interface  - **[ANVIL Framework](https://anvil.works/)**
 * Emotional Analysis - **[IBM Tone Analyzer API](https://tone-analyzer-demo.ng.bluemix.net/)**  
 * Songs Recommendation - **[Last.fm songs API](https://www.last.fm/)**
   
